@@ -1,0 +1,16 @@
+body{
+	background: url(../images/good_morning.jpg) no-repeat fixed center;
+}
+
+.container{
+	display: grid;
+	grid-template-columns: auto;
+	justify-content: center;
+	align-content: center;
+	color: white;
+}
+
+.text{
+	font-size: 2rem;
+	font-weight: bold;
+}
