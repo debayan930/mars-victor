@@ -1,0 +1,25 @@
+{
+  "name": "mars-victor",
+  "version": "1.0.0",
+  "description": "init_package",
+  "main": "\u001b[Bindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debayan930/mars-victor.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Debayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debayan930/mars-victor/issues"
+  },
+  "homepage": "https://github.com/debayan930/mars-victor#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
