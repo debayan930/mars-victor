@@ -1,30 +1,30 @@
 // // let + const
 
-// const player = "Xhaka";
-// let club = "Arsenal";
+const player = "Xhaka";
+let club = "Arsenal";
 
-// const arse_club = {
-// 	name: 'Arsenal',
-// 	league: 'English Premier League',
-// 	budget: 100,
-// 	isTopClub: true
-// };
+const arse_club = {
+	name: 'Arsenal',
+	league: 'English Premier League',
+	budget: 100,
+	isTopClub: true
+};
 
-// let {name, league} = arse_club;
+let {name, league} = arse_club;
 
-// const xhaka = {
-// 	[player]: "Granit Xhaka",
-// 	value: 28,
-// 	["hello" + 'world']: true
-// };
+const xhaka = {
+	[player]: "Granit Xhaka",
+	value: 28,
+	["hello" + 'world']: true
+};
 
 // baptic
 
-// const name = 'Debayan', age = 27, work = 'Deloitte';
+const name = 'Debayan', age = 27, work = 'Deloitte';
 
-// const intro = `Hello! I am ${name}. I am ${age} years old and I work at ${work}.`;
+const intro = `Hello! I am ${name}. I am ${age} years old and I work at ${work}.`;
 
-// const func = (a, b) => a + b;
+const func = (a, b) => a + b;
 
 // map, filter, reduce
 //map
